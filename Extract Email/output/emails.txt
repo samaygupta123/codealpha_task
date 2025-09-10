@@ -1,0 +1,14 @@
+admin123@gmail.com
+complaints@gmail.com
+contact@company.com
+dev.team@gmail.com
+feedback@gmail.com
+hr.department@gmail.com
+info@service.net
+john.doe@gmail.com
+marketing.team@gmail.com
+project.manager@gmail.com
+sales@business.org
+support@gmail.com
+test.user123@gmail.com
+user.test@gmail.com
